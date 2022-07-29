@@ -10,3 +10,6 @@
 ## 파일설명
 - Detectron2_Train_and_Inference(ver_2).ipynb : Instance Segmentation을 통한 대상 포착후 Mask 이미지생성후 Inpainting end2end 파일
 - Detectron2_Train_and_Inference(ver_2).ipynb : Instance Segmentation 원하는 대상 선택후 해당 대상만 지우는 version
+
+## 실시간 Inpainting
+- 동영상 프레임 단위로 자른뒤 각 프레임사진마다 마스킹해서 
